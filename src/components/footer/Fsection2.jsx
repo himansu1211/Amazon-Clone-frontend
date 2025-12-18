@@ -10,7 +10,7 @@ export const FootersectionTwo = ()=>{
                     <Link className="px-2">Privacy Notice</Link>
                     <Link className="px-2">Interest-Based Ads</Link>
                     <br />
-                    <small>© 1996-2023, Amazon.com, Inc. or its affiliates</small>
+                    <small>© Amazon.com, Inc. or its affiliates</small>
                 </div>
             </div>
         </>
